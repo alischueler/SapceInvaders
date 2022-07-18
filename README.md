@@ -9,3 +9,7 @@ The restrictions are that
 1. At any given time there can only be three spaceship bullets in the battle
 2. At any given time there can only be ten invader bullets in the battle
 3. The spaceship travels in a steady direction - left or right. The ship changes direction when the user clicks the left or right arrow key.
+
+To Start the Program:
+start the program from the terminal $ racket SpaceInvaders.rkt
+or open the program file with DrRacket, and click Run
